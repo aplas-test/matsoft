@@ -1,20 +1,24 @@
 {
-  "id": "matsoft",
-  "name": "Matsoft",
-  "categoryId": "core",
-  "description": "Realigned methodical encryption",
-  "investment_24m": "539",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "246",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "271",
-  "deployment_date": "4/4/13",
-  "end_of_maintenance": "5/4/17",
-  "department": "Support",
-  "status": "Decomissioned",
-  "end_of_life": "27/7/19",
-  "months_to_renew_support": "29",
-  "sme_email": "James.Janaszkiewicz@memento.net.au",
-  "investment_number": "22"
+  "applications": [
+    {
+      "id": "matsoft",
+      "name": "Matsoft",
+      "categoryId": "core",
+      "description": "Realigned methodical encryption",
+      "investment_24m": "539",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "246",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "271",
+      "deployment_date": "4/4/13",
+      "end_of_maintenance": "5/4/17",
+      "department": "Support",
+      "status": "Decomissioned",
+      "end_of_life": "27/7/19",
+      "months_to_renew_support": "29",
+      "sme_email": "James.Janaszkiewicz@memento.net.au",
+      "investment_number": "22"
+    }
+  ]
 }
