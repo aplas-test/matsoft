@@ -25,7 +25,6 @@
           "name": "INT-260",
           "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
           "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",
-          "sourceApplicationId": "matsoft",
           "targetApplicationId": "redhold",
           "logical_server": "CLOUD-A2A",
           "status_color": "#00FF00",
